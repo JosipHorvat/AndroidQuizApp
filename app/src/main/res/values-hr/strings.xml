@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="correct_text">Correct!</string>
+    <string name="incorrect_text">Incorrect!</string>
+    <string name="first_score_text">0/10</string>
+    <string name="correct_toast_message">Great!</string>
+    <string name="incorrect_score_message">Not good!</string>
+
+    <string name="q1">Pcela moze letjeti do 25km na sat.</string>
+    <string name="q2">Meduza je 95% voda.</string>
+    <string name="q3">Slonovi su jedini sisavci koji ne mogu da skoce.</string>
+    <string name="q4">Macke mogu da cuju ultrazvuk.</string>
+    <string name="q5">Ljudski mozak je tezak oko 1.40 kg.</string>
+    <string name="q6">Jezik je dio tijela koji se najbrze lijeci.</string>
+    <string name="q7">Amerikanci, u prosjeku , pojedu 6 hektara \"pizze"\ na dan.</string>
+    <string name="q8">Klokan moze da skoci vise od 9 metara</string>
+    <string name="q9">Pera od goluba su teza od negovih kostiju</string>
+    <string name="q10">Najveci covjek na svijetu je visok 2 m i 51 cm.</string>
+    <string name="button_true">Istina</string>
+    <string name="button_wrong">Laž</string>
+</resources>
