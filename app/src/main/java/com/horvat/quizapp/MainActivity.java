@@ -17,6 +17,9 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         initViews();
+
+       QuizModel model = new QuizModel(R.string.q1,true);
+
     }
 
     private void initViews() {
